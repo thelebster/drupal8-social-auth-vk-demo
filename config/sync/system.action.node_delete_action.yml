@@ -1,0 +1,13 @@
+uuid: 52e1d3d9-88c9-490d-ac7a-369ba22eba6f
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+_core:
+  default_config_hash: t43OqwzP3CTbcAagSsWKNy6KwMm_zShXo3c4-So6rQg
+id: node_delete_action
+label: 'Delete content'
+type: node
+plugin: 'entity:delete_action:node'
+configuration: {  }
