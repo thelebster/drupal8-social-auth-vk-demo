@@ -24,3 +24,7 @@
 /.env
 
 /keys
+
+# Ignore sqlite artifatcs
+web/drupal.sqlite-shm
+web/drupal.sqlite-wal
